@@ -1,0 +1,39 @@
+a{
+  color: grey;
+}
+
+a:hover{
+  color: darkgrey;
+}
+
+li{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.btn{
+  width: 200px;
+  margin-top: 12px;
+}
+
+.alet{
+  font-size: 24px;
+  font-weight: bold;
+  display: block;
+  color: black;
+  padding: 2px;
+}
+
+.alet:hover{
+  text-decoration: none;
+  color: blueviolet;
+}
+
+.baslik{
+  color: orange;
+}
+
+.baslikUst{
+  color: blueviolet;
+}
